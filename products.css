@@ -1,0 +1,4139 @@
+html {
+  font-size: 62.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+  list-style: none;
+}
+input {
+  border: none;
+}
+body {
+  width: 172.8rem;
+}
+.product-page {
+  width: 100%;
+  height: 440.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #f6f9ff;
+}
+.product-page .home-products-SwR {
+  width: 11.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 15rem;
+  top: 22rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #6481a6;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.product-page .home-products-SwR .home-products-SwR-sub-0 {
+}
+.product-page .home-products-SwR .home-products-SwR-sub-1 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+}
+.product-page .home-products-SwR .home-products-SwR-sub-2 {
+}
+.product-page .auto-group-kupu-KZH {
+  width: 172.8rem;
+  height: 297.5rem;
+  position: absolute;
+  left: 0;
+  top: 25rem;
+}
+.product-page .auto-group-kupu-KZH .line-28-pW3 {
+  width: 105.9rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 51.9rem;
+  top: 36.4rem;
+  background-color: #8395b4;
+}
+.product-page .auto-group-kupu-KZH .line-31-XfM {
+  width: 142.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 15rem;
+  top: 24.4rem;
+  background-color: #8395b4;
+}
+.product-page .auto-group-kupu-KZH .auto-group-gtww-T3D {
+  width: 69.2rem;
+  height: 5rem;
+  position: absolute;
+  left: 15rem;
+  top: 28.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-gtww-T3D
+  .our-all-products-MPV {
+  margin-right: 12.9rem;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-gtww-T3D
+  .search-products-rb9 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-transform: capitalize;
+  color: #c7d3e7;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page .auto-group-kupu-KZH .auto-group-t82j-NZV {
+  width: 142.8rem;
+  height: 46rem;
+  position: absolute;
+  left: 15rem;
+  top: 41.4rem;
+  display: flex;
+  align-items: center;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K {
+  margin: 2rem 6.8rem 1.9rem 0rem;
+  box-sizing: border-box;
+  padding: 2rem 0rem 2.1rem 0rem;
+  width: 30rem;
+  height: calc(100% - 3.9rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-top: solid 0.1rem #000000;
+  border-bottom: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-dxtf-X51 {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-dxtf-X51
+  .cold-rolled-roducts-rd5 {
+  margin-right: 2.7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-dxtf-X51
+  .group-132-4sZ {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .line-34-ab1 {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-51rx-WzT {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-51rx-WzT
+  .pipes-sKD {
+  margin-right: 21.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-51rx-WzT
+  .group-133-CsH {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .line-35-9Gj {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-bhdz-tVD {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-bhdz-tVD
+  .semis-Eoy {
+  margin-right: 20.9rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-bhdz-tVD
+  .group-134-n4o {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .line-36-K4j {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-umuk-dr7 {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-umuk-dr7
+  .structurals-Noh {
+  margin-right: 12.9rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-umuk-dr7
+  .group-135-JxF {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .line-37-f27 {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-s4cx-n6j {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-s4cx-n6j
+  .sail-tmt-bars-8gP {
+  margin-right: 12.9rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-s4cx-n6j
+  .group-136-fRR {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .line-39-zyV {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-qmmq-x9d {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-qmmq-x9d
+  .galvanised-products-hsu {
+  margin-right: 3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-j8ko-V8K
+  .auto-group-qmmq-x9d
+  .group-137-Ecw {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-reud-svo {
+  margin-right: 2rem;
+  width: 34rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-reud-svo
+  .pig-iron-Yn3 {
+  width: 6.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-reud-svo
+  .rectangle-56-meo {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-reud-svo
+  .view-product-catalogue-VKu {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.8rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-reud-svo
+  .group-81-PAP {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32.1rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-reud-svo
+  .group-81-PAP
+  .item--Uhd {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-reud-svo
+  .image-26-AqM {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-6sso-HQB {
+  margin-right: 2rem;
+  width: 34rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-6sso-HQB
+  .image-31-Qzb {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-6sso-HQB
+  .rectangle-57-jGB {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-6sso-HQB
+  .view-product-catalogue-Txs {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-6sso-HQB
+  .group-82-Zm1 {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-6sso-HQB
+  .group-82-Zm1
+  .item--s11 {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-6sso-HQB
+  .cold-rolled-products-y43 {
+  width: 17rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-9vj5-45V {
+  width: 34rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-9vj5-45V
+  .image-30-bLK {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-9vj5-45V
+  .pipes-vdV {
+  width: 7.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-9vj5-45V
+  .rectangle-100-2gX {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-9vj5-45V
+  .view-product-catalogue-m8K {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.8rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-9vj5-45V
+  .group-83-EXh {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32.1rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-t82j-NZV
+  .auto-group-9vj5-45V
+  .group-83-EXh
+  .item--Lqd {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page .auto-group-kupu-KZH .auto-group-luls-ebR {
+  width: 142.8rem;
+  height: 48.3rem;
+  position: absolute;
+  left: 15rem;
+  top: 87.4rem;
+  display: flex;
+  align-items: center;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d {
+  width: 30rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-luhz-T35 {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-luhz-T35
+  .wirerods-PxK {
+  margin-right: 16.1rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-luhz-T35
+  .group-138-izb {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .line-40-54T {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-1yhr-p23 {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-1yhr-p23
+  .pm-plates-ZVR {
+  margin-right: 16.5rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-1yhr-p23
+  .group-139-W9m {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .line-41-SZD {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-afq3-zaj {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-afq3-zaj
+  .railway-products-vzB {
+  margin-right: 7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-afq3-zaj
+  .group-140-evB {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .line-45-CB1 {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-qjt7-KmR {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-qjt7-KmR
+  .wheels-and-axles-sY3 {
+  margin-right: 7.6rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-qjt7-KmR
+  .group-141-D67 {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .line-43-xJb {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-yqat-W5D {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-yqat-W5D
+  .hot-rolled-products-rPy {
+  margin-right: 3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-yqat-W5D
+  .group-142-nYX {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .line-47-WzK {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-run7-sK5 {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-run7-sK5
+  .stainless-steel-products-1w5 {
+  margin-right: 10.3rem;
+  max-width: 16.7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-run7-sK5
+  .group-143-w43 {
+  margin-top: 0.4rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .line-42-GMD {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-kqwf-1pb {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-kqwf-1pb
+  .electrical-steels-MNf {
+  margin-right: 7.6rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-hzsb-N1d
+  .auto-group-kqwf-1pb
+  .group-144-r4X {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh {
+  box-sizing: border-box;
+  padding: 2rem 0rem 0.3rem 6.8rem;
+  height: 100%;
+  display: flex;
+  column-gap: 2rem;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-ktaf-HvX {
+  width: 34rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-ktaf-HvX
+  .image-36-E55 {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-ktaf-HvX
+  .structurals-9Sw {
+  width: 17.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-ktaf-HvX
+  .rectangle-102-3HR {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-ktaf-HvX
+  .view-product-catalogue-mz7 {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.8rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-ktaf-HvX
+  .group-85-s1Z {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32.1rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-ktaf-HvX
+  .group-85-s1Z
+  .item--AFZ {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-vubz-2Yf {
+  width: 34rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-vubz-2Yf
+  .image-37-U3H {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-vubz-2Yf
+  .rectangle-104-b7u {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-vubz-2Yf
+  .view-product-catalogue-K3u {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-vubz-2Yf
+  .group-87-c31 {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-vubz-2Yf
+  .group-87-c31
+  .item--rCF {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-vubz-2Yf
+  .sail-tmt-bars-kYX {
+  width: 10.4rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-1z7d-FkB {
+  width: 34rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-1z7d-FkB
+  .image-38-zhm {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-1z7d-FkB
+  .galvanised-products-Kk3 {
+  width: 15.3rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-1z7d-FkB
+  .rectangle-103-cj9 {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-1z7d-FkB
+  .view-product-catalogue-MRq {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.8rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-1z7d-FkB
+  .group-86-rNb {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32.1rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-luls-ebR
+  .auto-group-czyd-BMh
+  .auto-group-1z7d-FkB
+  .group-86-rNb
+  .item--5m9 {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page .auto-group-kupu-KZH .auto-group-az6x-NET {
+  width: 142.8rem;
+  height: 46rem;
+  position: absolute;
+  left: 15rem;
+  top: 137.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-16go-fUT {
+  margin: 0.3rem 6.8rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 2rem 0rem 2.1rem 0rem;
+  width: 30rem;
+  height: 7.1rem;
+  border-bottom: solid 0.1rem #000000;
+  border-top: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-16go-fUT
+  .auto-group-wmcj-Yo9 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-16go-fUT
+  .auto-group-wmcj-Yo9
+  .sail-seqr-tmt-bars-hR9 {
+  margin-right: 7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-16go-fUT
+  .auto-group-wmcj-Yo9
+  .group-145-1Aw {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-xp9r-U4X {
+  margin-right: 2rem;
+  width: 34rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-xp9r-U4X
+  .image-44-b99 {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-xp9r-U4X
+  .pm-plates-iDm {
+  width: 8.8rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-xp9r-U4X
+  .rectangle-106-1yZ {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-xp9r-U4X
+  .view-product-catalogue-M1q {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.8rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-xp9r-U4X
+  .group-89-T4s {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32.1rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-xp9r-U4X
+  .group-89-T4s
+  .item--Mg3 {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-hod9-FWX {
+  margin-right: 2rem;
+  width: 34rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-hod9-FWX
+  .image-45-M3m {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-hod9-FWX
+  .rectangle-108-GRd {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-hod9-FWX
+  .view-product-catalogue-QGw {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-hod9-FWX
+  .group-91-JdD {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-hod9-FWX
+  .group-91-JdD
+  .item--1nX {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-hod9-FWX
+  .railway-products-iwq {
+  width: 13.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-1crv-1R9 {
+  width: 34rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-1crv-1R9
+  .mask-group-uWX {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-1crv-1R9
+  .wheels-and-axles-cfq {
+  width: 16.1rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-1crv-1R9
+  .rectangle-107-uuq {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-1crv-1R9
+  .view-product-catalogue-dqq {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.8rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-1crv-1R9
+  .group-90-XgK {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32.1rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-az6x-NET
+  .auto-group-1crv-1R9
+  .group-90-XgK
+  .item--eF9 {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page .auto-group-kupu-KZH .auto-group-vkm9-xFq {
+  width: 106rem;
+  height: 46rem;
+  position: absolute;
+  left: 51.8rem;
+  top: 185.4rem;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-scdm-fAF {
+  width: 34rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-scdm-fAF
+  .image-49-NKZ {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-scdm-fAF
+  .stainless-steel-products-sn7 {
+  width: 20.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-scdm-fAF
+  .rectangle-110-yaF {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-scdm-fAF
+  .view-product-catalogue-X5y {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.8rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-scdm-fAF
+  .group-93-Rx3 {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32.1rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-scdm-fAF
+  .group-93-Rx3
+  .item--Lp7 {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-ziru-FgB {
+  width: 34rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-ziru-FgB
+  .image-50-bk3 {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-ziru-FgB
+  .rectangle-112-vGX {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-ziru-FgB
+  .view-product-catalogue-Rj5 {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-ziru-FgB
+  .group-95-XXD {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-ziru-FgB
+  .group-95-XXD
+  .item--SPH {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-ziru-FgB
+  .electrical-steels-xMd {
+  width: 14.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-6pjq-G7R {
+  width: 34rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-6pjq-G7R
+  .image-51-bQb {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-6pjq-G7R
+  .sail-seqr-tmt-bars-KLb {
+  width: 18rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-6pjq-G7R
+  .rectangle-111-Qsq {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-6pjq-G7R
+  .view-product-catalogue-KE7 {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.8rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-6pjq-G7R
+  .group-94-pAs {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32.1rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-vkm9-xFq
+  .auto-group-6pjq-G7R
+  .group-94-pAs
+  .item--XLB {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page .auto-group-kupu-KZH .auto-group-cazs-2Gw {
+  width: 30rem;
+  height: 3rem;
+  position: absolute;
+  left: 15rem;
+  top: 38.4rem;
+  display: flex;
+  align-items: center;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-cazs-2Gw
+  .pig-iron-Ym5 {
+  margin-right: 18.1rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-cazs-2Gw
+  .group-131-gMV {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page .auto-group-kupu-KZH .auto-group-d6h5-RK5 {
+  width: 141.3rem;
+  height: 17.4rem;
+  position: absolute;
+  left: 15rem;
+  top: 3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-d6h5-RK5
+  .widest-range-of-steel-products-kcF {
+  margin-right: 6.7rem;
+  max-width: 32.9rem;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.75;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .auto-group-d6h5-RK5
+  .with-an-unmatched-range-of-mild-steel-both-in-long-and-flat-categories-as-well-as-a-wide-variety-of-special-and-stainless-steels-identify-steel-that-meets-your-requirements-in-these-pages-require-an-unusual-product-or-an-altogether-new-product-sail-delivers-customized-steel-a-nation-wide-spread-of-sales-offices-warehouses-dealers-and-a-team-of-seasoned-application-engineers-ensure-swift-and-satisfactory-fulfillment-of-steel-requirement-in-any-corner-of-the-country-at-any-time-3LT {
+  margin-top: 1.4rem;
+  max-width: 101.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.product-page .auto-group-kupu-KZH .group-130-VLs {
+  width: 105.8rem;
+  height: 46.1rem;
+  position: absolute;
+  left: 51.9rem;
+  top: 231.4rem;
+  display: flex;
+  column-gap: 1.9rem;
+  align-items: flex-start;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-shtd-zYX {
+  width: 34rem;
+  height: 46rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-shtd-zYX
+  .image-32-vSB {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-shtd-zYX
+  .rectangle-101-eNB {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-shtd-zYX
+  .view-product-catalogue-ZEF {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-shtd-zYX
+  .group-84-dju {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-shtd-zYX
+  .group-84-dju
+  .item--k3q {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-shtd-zYX
+  .semis-SST {
+  width: 7.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-5tik-jwM {
+  width: 34rem;
+  height: 46rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-5tik-jwM
+  .image-39-snf {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-5tik-jwM
+  .rectangle-105-ogK {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-5tik-jwM
+  .view-product-catalogue-XcK {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-5tik-jwM
+  .group-88-Nsq {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-5tik-jwM
+  .group-88-Nsq
+  .item--HE7 {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-5tik-jwM
+  .wirerods-Q3q {
+  width: 13.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-a7qy-Vb5 {
+  margin-top: 0.1rem;
+  width: 34rem;
+  height: 46rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-a7qy-Vb5
+  .image-46-pdM {
+  width: 33.8rem;
+  height: 30rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-a7qy-Vb5
+  .rectangle-109-kX1 {
+  width: 34rem;
+  height: 46rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #8395b4;
+  box-sizing: border-box;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-a7qy-Vb5
+  .view-product-catalogue-Uxo {
+  width: 17.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 40.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 2;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-a7qy-Vb5
+  .group-92-PZy {
+  box-sizing: border-box;
+  padding: 1.9rem 1.7rem 2rem 1.7rem;
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 32rem;
+  border: solid 0.1rem #000000;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-a7qy-Vb5
+  .group-92-PZy
+  .item--FcB {
+  width: 2.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .auto-group-kupu-KZH
+  .group-130-VLs
+  .auto-group-a7qy-Vb5
+  .hot-rolled-products-9Sf {
+  width: 15.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 32rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+}
+.product-page .auto-group-envb-2mM {
+  box-sizing: border-box;
+  padding: 3rem 15rem 1.4rem 41.2rem;
+  width: 172.8rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #000a26;
+}
+.product-page .auto-group-envb-2mM .group-100-LGF {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 3rem;
+}
+.product-page
+  .auto-group-envb-2mM
+  .group-100-LGF
+  .auto-group-p4kp-V99 {
+  box-sizing: border-box;
+  padding: 1rem 3rem 0.8rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-envb-2mM
+  .group-100-LGF
+  .auto-group-p4kp-V99
+  .all-india-demand-reg-eng-Nyd {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-envb-2mM
+  .group-100-LGF
+  .auto-group-p4kp-V99
+  .all-india-demand-reg-hin-uCs {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-envb-2mM
+  .group-100-LGF
+  .auto-group-p4kp-V99
+  .sail-mediclaim-DzF {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-envb-2mM
+  .group-100-LGF
+  .auto-group-p4kp-V99
+  .eps-95-8bR {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-envb-2mM
+  .group-100-LGF
+  .auto-group-p4kp-V99
+  .sail-pension-UfH {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-envb-2mM
+  .group-100-LGF
+  .auto-group-p4kp-V99
+  .tenders-pUF {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-envb-2mM
+  .group-100-LGF
+  .auto-group-p4kp-V99
+  .vigilance-AHD {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-envb-2mM
+  .group-100-LGF
+  .auto-group-p4kp-V99
+  .contact-us-JPR {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-envb-2mM
+  .group-100-LGF
+  .auto-group-p4kp-V99
+  .careers-SkX {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-envb-2mM
+  .group-100-LGF
+  .auto-group-xyek-aLw {
+  width: 7rem;
+  height: 100%;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.product-page .auto-group-cq5v-2Cw {
+  width: 142.8rem;
+  height: 8.0667rem;
+  position: absolute;
+  left: 15rem;
+  top: 9rem;
+  display: flex;
+  align-items: center;
+}
+.product-page .auto-group-cq5v-2Cw .group-102-wao {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.product-page .auto-group-cq5v-2Cw .group-102-wao .group-2-6Th {
+  margin-right: 2.2734rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .group-102-wao
+  .group-2-6Th
+  .group-dyR {
+  margin-bottom: 0.0907rem;
+  width: 4.84rem;
+  height: 7.3179rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .group-102-wao
+  .group-2-6Th
+  .path293-yGb {
+  margin-right: 0.0539rem;
+  width: 3.2209rem;
+  height: 0.658rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page .auto-group-cq5v-2Cw .group-102-wao .line-3-uAF {
+  margin: 1.467rem 1.613rem 0rem 0rem;
+  width: 0rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page .auto-group-cq5v-2Cw .group-102-wao .ff-1yy {
+  width: 7.7733rem;
+  height: 8.0667rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page .auto-group-cq5v-2Cw .auto-group-zzxo-xeK {
+  box-sizing: border-box;
+  padding: 1rem 0rem 1.067rem 3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .auto-group-gvfm-gqD {
+  margin-right: 3.1rem;
+  box-sizing: border-box;
+  padding: 1.8rem 21rem 1.8rem 1.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #d5e0ff;
+  border-radius: 3.55rem;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .auto-group-gvfm-gqD
+  .vuesax-linear-search-normal-CoZ {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .auto-group-gvfm-gqD
+  .search-jHh {
+  margin-top: 0.2rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5 {
+  margin: 2.1rem 0;
+  height: calc(100% - 4.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .company-w8s {
+  margin-right: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .polygon-1-Tsu {
+  margin: 0rem 2rem 0.1rem 0rem;
+  width: 0.8rem;
+  height: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .make-in-india-Lgo {
+  margin-right: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .polygon-2-GaT {
+  margin: 0rem 2rem 0.1rem 0rem;
+  width: 0.8rem;
+  height: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .marketing-BxK {
+  margin-right: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .polygon-3-XWP {
+  margin: 0rem 2rem 0.1rem 0rem;
+  width: 0.8rem;
+  height: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .products-Evb {
+  margin-right: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .polygon-4-NX1 {
+  margin: 0rem 2rem 0.1rem 0rem;
+  width: 0.8rem;
+  height: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .investor-relations-JQf {
+  margin-right: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .polygon-5-dC3 {
+  margin: 0rem 2rem 0.1rem 0rem;
+  width: 0.8rem;
+  height: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .media-k1m {
+  margin-right: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .polygon-6-UiT {
+  margin: 0rem 2rem 0.1rem 0rem;
+  width: 0.8rem;
+  height: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .corporate-citizenship-1Cb {
+  margin-right: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .auto-group-cq5v-2Cw
+  .auto-group-zzxo-xeK
+  .group-101-dP5
+  .polygon-7-ish {
+  margin-bottom: 0.1rem;
+  width: 0.8rem;
+  height: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page .line-30-F6w {
+  width: 172.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 19rem;
+  background-color: #b4c5f5;
+}
+.product-page .group-128-NxF {
+  box-sizing: border-box;
+  padding-top: 3rem;
+  width: 172.8rem;
+  height: 117.7rem;
+  position: absolute;
+  left: 0;
+  top: 322.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-top: solid 0.1rem #000000;
+}
+.product-page .group-128-NxF .group-24-s8K {
+  margin: 0rem 59.3rem 3rem 59.4rem;
+  width: calc(100% - 118.7rem);
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page .group-128-NxF .group-24-s8K .image-18-ANK {
+  margin-top: 0.1rem;
+  width: 17.2rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page .group-128-NxF .group-24-s8K .image-19-tJK {
+  width: 18.9rem;
+  height: 7.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page .group-128-NxF .group-24-s8K .image-20-RJF {
+  width: 10rem;
+  height: 7.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page .group-128-NxF .line-25-kbR {
+  margin-bottom: 9.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page .group-128-NxF .auto-group-zy5r-tBq {
+  box-sizing: border-box;
+  padding: 6rem 15rem 5rem 15rem;
+  width: 100%;
+  height: 76rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #000a26;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-qa9u-P8b {
+  margin-right: 4.9rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-qa9u-P8b
+  .investor-relations-jCT {
+  margin-bottom: 3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-qa9u-P8b
+  .performance-highlights-annual-general-meeting-postal-ballot-financials-chairmans-address-shares-transfer-of-shares-to-iepf-notice-to-shareholders-to-update-kyc-details-code-of-conduct-vigil-mechanism-policies-terms-conditions-of-appointment-of-independent-directors-sdd-disclosures-concall-invite-unpaid-dividend-top-shareholders-familiarisation-programme-imparted-to-independent-directors-non-convertable-bonds-trustees-3yq {
+  max-width: 24.1rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.1538461538;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-u5gs-PAX {
+  margin-right: 4.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-u5gs-PAX
+  .company-Kps {
+  margin-bottom: 3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-u5gs-PAX
+  .about-us-vision-careers-background-history-board-and-organisation-swachh-sail-sundar-sail-climate-action-india-climate-change-sail-company-policies-awards-accolades-our-employees-GEK {
+  max-width: 24.5rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.1538461538;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-mqa3-iMD {
+  margin-right: 2.9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-mqa3-iMD
+  .marketing-Frw {
+  margin-bottom: 3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-mqa3-iMD
+  .buy-sail-seqr-online-central-marketing-organisation-demand-registration-scheme-for-nepal-customers-distributor-dealer-network-exports-product-applications-sail-network-map-all-india-demand-registration-of-sail-steel-2023-24-english-all-india-demand-registration-of-sail-steel-2023-24-hindi-customer-feedback-customer-testimonial-mou-policy-for-stainless-steel-2023-monthly-supply-position-of-wta-to-indian-railways-CGP {
+  max-width: 26.1rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.1538461538;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-n91q-MHh {
+  margin-right: 4.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-n91q-MHh
+  .corporate-citizenship-agF {
+  margin-bottom: 3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-n91q-MHh
+  .corporate-citizenship-sustainability-report-integrity-pact-peripheral-development-education-csr-provisions-of-companies-act-2013-sd-projects-for-sail-2019-20-citizens-charter-human-rights-charter-medical-and-health-care-personnel-policies-68o {
+  max-width: 24.4rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.1538461538;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .important-links-4E3 {
+  margin-bottom: 3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .important-links-vigilance-tenders-right-to-information-act-portal-for-public-grievances-pensioners-portal-whistle-blower-policy-steel-links-faq-market-tracker-learning-center-PXD {
+  margin-bottom: 12.5rem;
+  max-width: 17.1rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.1538461538;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV {
+  margin-left: 10.8rem;
+  width: 16rem;
+  height: 16rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .ff-Ne3 {
+  width: 5.3rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 5.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .ellipse-2-6a3 {
+  width: 16rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  border-radius: 8rem;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .ellipse-3-oUT {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 4rem;
+  top: 4rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  border-radius: 4rem;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM {
+  width: 12.8038rem;
+  height: 13.8523rem;
+  position: absolute;
+  left: 1.5699rem;
+  top: 0.6477rem;
+  display: flex;
+  align-items: center;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K {
+  box-sizing: border-box;
+  padding: 0.117rem 0.216rem 0.047rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom {
+  margin: 0.806rem 0.248rem 0.601rem 0rem;
+  width: 4.1046rem;
+  height: calc(100% - 1.4062rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-ue2t-dro {
+  margin: 0rem 0.166rem 0.269rem 0rem;
+  width: 3.9386rem;
+  height: 7.4479rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-ue2t-dro
+  .l-wcb {
+  width: 0.9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.1295rem;
+  top: 5.3479rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-ue2t-dro
+  .i-QWB {
+  width: 0.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.3565rem;
+  top: 4.0789rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-ue2t-dro
+  .m-tw9 {
+  width: 1.5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 3.3877rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-ue2t-dro
+  .i-c6T {
+  width: 0.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.9327rem;
+  top: 2.1435rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-ue2t-dro
+  .t-Vvw {
+  width: 0.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.3833rem;
+  top: 1.3269rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-ue2t-dro
+  .e-Q2K {
+  width: 1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.967rem;
+  top: 0.6464rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-ue2t-dro
+  .d-uDy {
+  width: 1.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 2.8386rem;
+  top: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-nihd-Pew {
+  margin-left: 0.761rem;
+  width: calc(100% - 0.761rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-nihd-Pew
+  .auto-group-psdd-XWF {
+  margin: 0rem 0.017rem 1.619rem 0rem;
+  width: 1.3268rem;
+  height: 2.9469rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-nihd-Pew
+  .auto-group-psdd-XWF
+  .i-3Dh {
+  width: 0.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.9268rem;
+  top: 0.8469rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-nihd-Pew
+  .auto-group-psdd-XWF
+  .a-YAT {
+  width: 1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-nihd-Pew
+  .auto-group-8yiw-qfM {
+  width: 2rem;
+  height: 2.7437rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-nihd-Pew
+  .auto-group-8yiw-qfM
+  .n-NfH {
+  width: 1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.6437rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-bdpk-Xom
+  .auto-group-nihd-Pew
+  .auto-group-8yiw-qfM
+  .d-srw {
+  width: 1.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-1vxh-aWT {
+  margin: 0rem 0.076rem 0.225rem 0rem;
+  box-sizing: border-box;
+  padding-top: 9.056rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-s4hm-26K
+  .auto-group-jskw-4Aj {
+  height: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-gzaf-AUf {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-gzaf-AUf
+  .t-vCw {
+  margin: 0rem 0.218rem 9.652rem 0rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-gzaf-AUf
+  .f-d7M {
+  margin-left: 0.2179rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ {
+  box-sizing: border-box;
+  padding: 0.179rem 0rem 0.126rem 0.012rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-c5z1-Esq {
+  margin-right: 0.2347rem;
+  width: 2.0651rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-c5z1-Esq
+  .auto-group-fzfy-Nj9 {
+  margin-bottom: 8.9867rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-c5z1-Esq
+  .auto-group-fzfy-Nj9
+  .e-io1 {
+  margin: 0rem 0.065rem 0.361rem 0rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-c5z1-Esq
+  .auto-group-fzfy-Nj9
+  .e-2oh {
+  margin-top: 0.3605rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-c5z1-Esq
+  .auto-group-x4a3-wvf {
+  margin: 0rem 0.245rem 0rem 0.192rem;
+  width: calc(100% - 0.4375rem);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-e9sp-dHh {
+  margin: 0.787rem 0.031rem 0.985rem 0rem;
+  width: 0.9rem;
+  height: calc(100% - 1.7728rem);
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-e9sp-dHh
+  .l-kNK {
+  margin-bottom: 7.5745rem;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-e9sp-dHh
+  .y-4du {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-g3gs-PgB {
+  margin: 2.433rem 0rem 1.819rem 0rem;
+  width: 2.3988rem;
+  height: calc(100% - 4.252rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-g3gs-PgB
+  .a-VUK {
+  width: 1.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.3569rem;
+  top: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-g3gs-PgB
+  .u-C7q {
+  width: 1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.9256rem;
+  top: 0.8547rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-g3gs-PgB
+  .t-VMq {
+  width: 0.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.4226rem;
+  top: 1.7647rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-g3gs-PgB
+  .h-CGF {
+  width: 1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.3988rem;
+  top: 2.8252rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-g3gs-PgB
+  .o-tum {
+  width: 1.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.2638rem;
+  top: 4.0848rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-g3gs-PgB
+  .r-zT1 {
+  width: 0.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.2296rem;
+  top: 5.0858rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-g3gs-PgB
+  .i-h6X {
+  width: 0.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.841rem;
+  top: 6.1288rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-zy5r-tBq
+  .auto-group-puk1-WiK
+  .group-6-SVV
+  .group-5-6yM
+  .auto-group-akyu-LXZ
+  .auto-group-g3gs-PgB
+  .t-BnP {
+  width: 0.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 7.1952rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.product-page .group-128-NxF .auto-group-hsbq-fSf {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f0f4ff;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-hsbq-fSf
+  .auto-group-ez1z-zUw {
+  margin: 0rem 5rem 0rem 33.85rem;
+  width: calc(100% - 38.85rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-hsbq-fSf
+  .auto-group-ez1z-zUw
+  .this-is-the-official-website-of-steel-authority-of-india-limited-sail-a-public-sector-undertaking-of-the-government-of-india-under-the-ministry-of-steel-K1R {
+  margin-right: 18.85rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-hsbq-fSf
+  .auto-group-ez1z-zUw
+  .image-21-AGw {
+  width: 10rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-page .group-128-NxF .auto-group-hsbq-fSf .line-26-J8F {
+  margin-bottom: 2.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-page .group-128-NxF .auto-group-hsbq-fSf .group-25-Dm1 {
+  margin: 0rem 15.2rem 0rem 15rem;
+  width: calc(100% - 30.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-hsbq-fSf
+  .group-25-Dm1
+  .last-updated-13-dec-2023-jjM {
+  margin-right: 36.4rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-hsbq-fSf
+  .group-25-Dm1
+  .copyright-2020-sail-all-rights-reserved-Fxb {
+  margin-right: 26.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-hsbq-fSf
+  .group-25-Dm1
+  .hyperlinking-policy-Apf {
+  margin-right: 2.1rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-page
+  .group-128-NxF
+  .auto-group-hsbq-fSf
+  .group-25-Dm1
+  .terms-conditions-HuH {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Plus Jakarta Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
